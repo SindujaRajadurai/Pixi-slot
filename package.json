@@ -1,0 +1,20 @@
+{
+  "name": "task_gecko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "local": "http-server -p 80 -o /index.html",
+    "type": "module"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://JordanHarrison1x2@bitbucket.org/1x2network/task_gecko.git"
+  },
+  "author": "Jordan Harrison",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/1x2network/task_gecko#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
